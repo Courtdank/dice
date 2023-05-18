@@ -10,3 +10,4 @@ class Dice:
 		result = random.randint(1, self.y)
 		print(result)
 
+
